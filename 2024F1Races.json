@@ -1,0 +1,84 @@
+[{
+            "raceName": "2024 Formula One Bahrain Grand Prix",
+            "raceTime": "2024-03-01T14:00:00Z",
+            "raceTrack": "Bahrain International Circuit, Sakhir, Bahrain"
+        },
+        {
+            "raceName": "2024 Formula One Saudi Arabian Grand Prix",
+            "raceTime": "2024-03-31T13:00:00Z",
+            "raceTrack": "Jeddah Street Circuit, Jeddah, Saudi Arabia"
+        },
+        {
+            "raceName": "2024 Formula One Australian Grand Prix",
+            "raceTime": "2024-04-15T07:00:00Z",
+            "raceTrack": "Albert Park Circuit, Melbourne, Australia"
+        },
+        {
+
+            "raceName": "2024 Formula One Azerbaijan Grand Prix",
+            "raceTime": "2024-04-28T11:00:00Z",
+            "raceTrack": "Baku City Circuit, Baku, Azerbaijan"
+        },
+        {
+            "raceName": "2024 Formula One Miami Grand Prix",
+            "raceTime": "2024-05-05T19:00:00Z",
+            "raceTrack": "Miami International Autodrome, Miami Gardens, Florida, United States"
+        },
+        {
+            "raceName": "2024 Formula One Monaco Grand Prix",
+            "raceTime": "2024-05-26T15:00:00Z",
+            "raceTrack": "Circuit de Monaco, Monte-Carlo, Monaco"
+        },
+        {
+            "raceName": "2024 Formula One Spanish Grand Prix",
+            "raceTime": "2024-06-02T13:00:00Z",
+            "raceTrack": "Circuit de Barcelona-Catalunya, Montmeló, Spain"
+        },
+        {
+            "raceName": "2024 Formula One Canadian Grand Prix",
+            "raceTime": "2024-06-16T18:00:00Z",
+            "raceTrack": "Circuit Gilles Villeneuve, Montreal, Quebec, Canada"
+
+        },
+        {
+            "raceName": "2024 Formula One British Grand Prix",
+            "raceTime": "2024-07-14T13:00:00Z",
+            "raceTrack": "Silverstone Circuit, Silverstone, United Kingdom"
+        },
+        {
+            "raceName": "2024 Formula One Austrian Grand Prix",
+            "raceTime": "2024-07-28T13:00:00Z",
+            "raceTrack": "Red Bull Ring, Spielberg, Austria"
+        },
+        {
+            "raceName": "2024 Formula One French Grand Prix",
+            "raceTime": "2024-08-04T15:00:00Z",
+            "raceTrack": "Circuit Paul Ricard, Le Castellet, France"
+        },
+        {"raceName": "2024 Formula One Hungarian Grand Prix","raceTime": "2024-08-18T13:00:00Z","raceTrack": "Hungaroring, Mogyoród, Hungary"
+        },
+        {"raceName": "2024 Formula One Belgian Grand Prix","raceTime": "2024-08-25T14:30:00Z","raceTrack": "Circuit de Spa-Francorchamps, Stavelot, Belgium"
+        },
+        {"raceName": "2024 Formula One Dutch Grand Prix","raceTime": "2024-09-01T14:00:00Z","raceTrack": "Circuit Zandvoort, Zandvoort, Netherlands"
+        },
+        {"raceName": "2024 Formula One Italian Grand Prix","raceTime": "2024-09-08T14:00:00Z","raceTrack": "Autodromo Nazionale Monza, Monza, Italy"
+        },
+        {"raceName": "2024 Formula One United States Grand Prix","raceTime": "2024-10-20T19:00:00Z","raceTrack": "Circuit of the Americas, Austin, Texas, United States"
+        },
+        {"raceName": "2024 Formula One Mexican Grand Prix","raceTime": "2024-10-27T21:00:00Z","raceTrack": "Autódromo Hermanos Rodríguez, Mexico City, Mexico"
+
+        },
+        {"raceName": "2024 Formula One São Paulo Grand Prix","raceTime": "2024-11-03T18:00:00Z","raceTrack": "Autódromo José Carlos Pace, Interlagos, Brazil"
+        },
+        {"raceName": "2024 Formula One Las Vegas Grand Prix","raceTime": "2024-11-24T00:00:00Z","raceTrack": "Las Vegas Street Circuit, Las Vegas, Nevada, United States"
+        },
+        {
+                "raceName": "2024 Formula One Qatar Grand Prix",
+                "raceTime": "2024-12-01T14:00:00Z",
+                "raceTrack": "Losail International Circuit, Lusail, Qatar",
+        },
+        {
+                "raceName": "2024 Formula One Abu Dhabi Grand Prix",
+                "raceTime": "2024-12-08T14:00:00Z",
+                "raceTrack": "Yas Marina Circuit, Abu Dhabi, United Arab Emirates"
+        }]
