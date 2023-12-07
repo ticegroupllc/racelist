@@ -1,0 +1,56 @@
+[
+  {
+    "name": "FIA Formula One World Championship",
+    "url": "https://www.fia.com/formula-one-world-championship",
+    "type": "Open-wheel",
+    "description": "The pinnacle of motorsport, featuring the world's fastest and most technologically advanced racing cars."
+  },
+  {
+    "name": "ABB FIA Formula E World Championship",
+    "url": "https://www.fiaformulae.com/en",
+    "type": "Open-wheel",
+    "description": "An electric-powered open-wheel racing championship, featuring sustainable technology and exciting city-center circuits."
+  },
+  {
+    "name": "FIA World Rally Championship",
+    "url": "https://www.fia.com/wrc",
+    "type": "Rally",
+    "description": "A grueling off-road rally series, where drivers tackle challenging stages in diverse environments."
+  },
+  {
+    "name": "FIA World Rallycross Championship",
+    "url": "https://fiaworldrallycross.com/",
+    "type": "Rallycross",
+    "description": "Action-packed races on mixed-surface tracks, combining rally elements with short lap times and close competition."
+  },
+  {
+    "name": "FIA World Endurance Championship",
+    "url": "https://www.fiawec.com/en/#:~:text=Contested",
+    "type": "Sports car",
+    "description": "Enduring races with varying distances, featuring the world's best sports cars and drivers."
+  },
+  {
+    "name": "FIA Karting World Championship",
+    "url": "https://www.fiakarting.com/championships/world-championship",
+    "type": "Karting",
+    "description": "The highest level of karting competition, showcasing young talent and future stars of motorsport."
+  },
+  {
+    "name": "FIA World Rally-Raid Championship",
+    "url": "https://www.fia.com/world-rally-raid-championship",
+    "type": "Rally-raid",
+    "description": "Long-distance off-road races, testing the endurance of competitors and vehicles."
+  },
+  {
+    "name": "FIA GT World Cup",
+    "url": "https://www.fia.com/gt-world-cup",
+    "type": "GT",
+    "description": "A single-race event featuring the most prestigious GT cars and drivers from around the world."
+  },
+  {
+    "name": "FIA European Rallycross Championship",
+    "url": "https://www.fiaerc.com/",
+    "type": "Rallycross",
+    "description": "A regional rallycross championship with high-level competition and exciting racing."
+  }
+]
