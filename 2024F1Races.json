@@ -66,56 +66,64 @@
             "raceTime": "2024-08-04T15:00:00Z",
             "raceTrack": "Circuit Paul Ricard, Le Castellet, France"
         },
-        {"raceName": "2024 Formula One Hungarian Grand Prix",
+        {
+                    "raceName": "2024 Formula One Hungarian Grand Prix",
                     "shortName": "Hungarian Grand Prix",
                     "raceTime": "2024-08-18T13:00:00Z",
                     "raceTrack": "Hungaroring, Mogyoród, Hungary"
         },
-        {"raceName": "2024 Formula One Belgian Grand Prix",
+        {
+                    "raceName": "2024 Formula One Belgian Grand Prix",
                     "shortName": "Belgian Grand Prix",
                     "raceTime": "2024-08-25T14:30:00Z",
                     "raceTrack": "Circuit de Spa-Francorchamps, Stavelot, Belgium"
         },
-        {"raceName": "2024 Formula One Dutch Grand Prix",
+        {
+                    "raceName": "2024 Formula One Dutch Grand Prix",
                     "shortName": "Dutch Grand Prix",
                     "raceTime": "2024-09-01T14:00:00Z",
                     "raceTrack": "Circuit Zandvoort, Zandvoort, Netherlands"
         },
-        {"raceName": "2024 Formula One Italian Grand Prix",
+        {
+                    "raceName": "2024 Formula One Italian Grand Prix",
                     "shortName": "Italian Grand Prix",
                     "raceTime": "2024-09-08T14:00:00Z",
                     "raceTrack": "Autodromo Nazionale Monza, Monza, Italy"
         },
-        {"raceName": "2024 Formula One United States Grand Prix",
+        {
+                    "raceName": "2024 Formula One United States Grand Prix",
                     "shortName": "United States Grand Prix",
                     "raceTime": "2024-10-20T19:00:00Z",
                     "raceTrack": "Circuit of the Americas, Austin, Texas, United States"
         },
-        {"raceName": "2024 Formula One Mexican Grand Prix",
+        {
+                    "raceName": "2024 Formula One Mexican Grand Prix",
                     "shortName": "Mexican Grand Prix",
                     "raceTime": "2024-10-27T21:00:00Z",
                     "raceTrack": "Autódromo Hermanos Rodríguez, Mexico City, Mexico"
 
         },
-        {"raceName": "2024 Formula One São Paulo Grand Prix",
+        {
+                    "raceName": "2024 Formula One São Paulo Grand Prix",
                     "shortName": "São Paulo Grand Prix",
                     "raceTime": "2024-11-03T18:00:00Z",
                     "raceTrack": "Autódromo José Carlos Pace, Interlagos, Brazil"
         },
-        {"raceName": "2024 Formula One Las Vegas Grand Prix",
+        {
+                    "raceName": "2024 Formula One Las Vegas Grand Prix",
                     "shortName": "Las Vegas Grand Prix",
                     "raceTime": "2024-11-24T00:00:00Z",
                     "raceTrack": "Las Vegas Street Circuit, Las Vegas, Nevada, United States"
         },
         {
-                "raceName": "2024 Formula One Qatar Grand Prix",
-            "shortName": "Qatar Grand Prix",
-                "raceTime": "2024-12-01T14:00:00Z",
-                "raceTrack": "Losail International Circuit, Lusail, Qatar",
+                    "raceName": "2024 Formula One Qatar Grand Prix",
+                    "shortName": "Qatar Grand Prix",
+                    "raceTime": "2024-12-01T14:00:00Z",
+                    "raceTrack": "Losail International Circuit, Lusail, Qatar",
         },
         {
-                "raceName": "2024 Formula One Abu Dhabi Grand Prix",
+                    "raceName": "2024 Formula One Abu Dhabi Grand Prix",
                     "shortName":"Abu Dhabi Grand Prix"
-                "raceTime": "2024-12-08T14:00:00Z",
-                "raceTrack": "Yas Marina Circuit, Abu Dhabi, United Arab Emirates"
+                    "raceTime": "2024-12-08T14:00:00Z",
+                    "raceTrack": "Yas Marina Circuit, Abu Dhabi, United Arab Emirates"
         }]
