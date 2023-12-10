@@ -2,105 +2,174 @@
             "raceName": "2024 Formula One Bahrain Grand Prix",
             "shortName": "Bahrain Grand Prix",
             "raceTime": "2024-03-01T14:00:00Z",
-            "raceTrack": "Bahrain International Circuit, Sakhir, Bahrain"
+            "raceTrack": "Bahrain International Circuit, Sakhir, Bahrain",
+            "circuit_name": "Bahrain International Circuit",
+    "country": "Bahrain",
+    "latitude": 26.040833,
+    "longitude": 50.506944
         },
         {
             "raceName": "2024 Formula One Saudi Arabian Grand Prix",
             "shortName": "Saudi Arabian Grand Prix",
             "raceTime": "2024-03-31T13:00:00Z",
-            "raceTrack": "Jeddah Street Circuit, Jeddah, Saudi Arabia"
+            "raceTrack": "Jeddah Street Circuit, Jeddah, Saudi Arabia",
+                    "circuit_name": "",
+                    "country": "",
+                    "latitude": 0,
+                    "longitude":0
         },
         {
             "raceName": "2024 Formula One Australian Grand Prix",
             "shortName": "Australian Grand Prix",
             "raceTime": "2024-04-15T07:00:00Z",
-            "raceTrack": "Albert Park Circuit, Melbourne, Australia"
+            "raceTrack": "Albert Park Circuit, Melbourne, Australia",
+                    "circuit_name": "",
+                    "country": "",
+                    "latitude": 0,
+                    "longitude":0
         },
         {
 
             "raceName": "2024 Formula One Azerbaijan Grand Prix",
             "shortName": "Azerbaijan Grand Prix",
             "raceTime": "2024-04-28T11:00:00Z",
-            "raceTrack": "Baku City Circuit, Baku, Azerbaijan"
+            "raceTrack": "Baku City Circuit, Baku, Azerbaijan",
+                    "circuit_name": "",
+                    "country": "",
+                    "latitude": 0,
+                    "longitude":0
         },
         {
             "raceName": "2024 Formula One Miami Grand Prix",
             "shortName": "Miami Grand Prix",
             "raceTime": "2024-05-05T19:00:00Z",
-            "raceTrack": "Miami International Autodrome, Miami Gardens, Florida, United States"
+            "raceTrack": "Miami International Autodrome, Miami Gardens, Florida, United States",
+                    "circuit_name": "",
+                    "country": "",
+                    "latitude": 0,
+                    "longitude":0
         },
         {
             "raceName": "2024 Formula One Monaco Grand Prix",
             "shortName": "Monaco Grand Prix",
             "raceTime": "2024-05-26T15:00:00Z",
-            "raceTrack": "Circuit de Monaco, Monte-Carlo, Monaco"
+            "raceTrack": "Circuit de Monaco, Monte-Carlo, Monaco",
+                    "circuit_name": "",
+                    "country": "",
+                    "latitude": 0,
+                    "longitude":0
         },
         {
             "raceName": "2024 Formula One Spanish Grand Prix",
             "shortName": "Spanish Grand Prix",
             "raceTime": "2024-06-02T13:00:00Z",
-            "raceTrack": "Circuit de Barcelona-Catalunya, Montmeló, Spain"
+            "raceTrack": "Circuit de Barcelona-Catalunya, Montmeló, Spain",
+                    "circuit_name": "",
+                    "country": "",
+                    "latitude": 0,
+                    "longitude":0
         },
         {
             "raceName": "2024 Formula One Canadian Grand Prix",
             "shortName": "Canadian Grand Prix",
             "raceTime": "2024-06-16T18:00:00Z",
-            "raceTrack": "Circuit Gilles Villeneuve, Montreal, Quebec, Canada"
+            "raceTrack": "Circuit Gilles Villeneuve, Montreal, Quebec, Canada",
+                    "circuit_name": "Circuit Gilles-Villeneuve",
+    "country": "Canada",
+    "latitude": 45.505556,
+    "longitude": -73.528056
 
         },
         {
             "raceName": "2024 Formula One British Grand Prix",
             "shortName": "British Grand Prix",
             "raceTime": "2024-07-14T13:00:00Z",
-            "raceTrack": "Silverstone Circuit, Silverstone, United Kingdom"
+            "raceTrack": "Silverstone Circuit, Silverstone, United Kingdom",
+                    "circuit_name": "Silverstone Circuit",
+    "country": "United Kingdom",
+    "latitude": 52.072222,
+    "longitude": -1.006944
         },
         {
             "raceName": "2024 Formula One Austrian Grand Prix",
             "shortName": "Austrian Grand Prix",
             "raceTime": "2024-07-28T13:00:00Z",
-            "raceTrack": "Red Bull Ring, Spielberg, Austria"
+            "raceTrack": "Red Bull Ring, Spielberg, Austria",
+                    "circuit_name": "Red Bull Ring",
+    "country": "Austria",
+    "latitude": 47.216667,
+    "longitude": 14.733333
         },
         {
             "raceName": "2024 Formula One French Grand Prix",
             "shortName": "French Grand Prix",
             "raceTime": "2024-08-04T15:00:00Z",
-            "raceTrack": "Circuit Paul Ricard, Le Castellet, France"
+            "raceTrack": "Circuit Paul Ricard, Le Castellet, France",
+                    "circuit_name": "",
+                    "country": "",
+                    "latitude": 0,
+                    "longitude":0
         },
         {
                     "raceName": "2024 Formula One Hungarian Grand Prix",
                     "shortName": "Hungarian Grand Prix",
                     "raceTime": "2024-08-18T13:00:00Z",
-                    "raceTrack": "Hungaroring, Mogyoród, Hungary"
+                    "raceTrack": "Hungaroring, Mogyoród, Hungary",
+                    "circuit_name": "",
+                    "country": "",
+                    "latitude": 0,
+                    "longitude":0
         },
         {
                     "raceName": "2024 Formula One Belgian Grand Prix",
                     "shortName": "Belgian Grand Prix",
                     "raceTime": "2024-08-25T14:30:00Z",
-                    "raceTrack": "Circuit de Spa-Francorchamps, Stavelot, Belgium"
+                    "raceTrack": "Circuit de Spa-Francorchamps, Stavelot, Belgium",
+                    "circuit_name": "Circuit de Spa-Francorchamps",
+                        "country": "Belgium",
+                            "latitude": 50.437083,
+                            "longitude": 5.973194
+
         },
         {
                     "raceName": "2024 Formula One Dutch Grand Prix",
                     "shortName": "Dutch Grand Prix",
                     "raceTime": "2024-09-01T14:00:00Z",
-                    "raceTrack": "Circuit Zandvoort, Zandvoort, Netherlands"
+                    "raceTrack": "Circuit Zandvoort, Zandvoort, Netherlands",
+                    "circuit_name": "Circuit Zandvoort",
+    "country": "Netherlands",
+    "latitude": 52.366667,
+    "longitude": 4.550000
         },
         {
                     "raceName": "2024 Formula One Italian Grand Prix",
                     "shortName": "Italian Grand Prix",
                     "raceTime": "2024-09-08T14:00:00Z",
-                    "raceTrack": "Autodromo Nazionale Monza, Monza, Italy"
+                    "raceTrack": "Autodromo Nazionale Monza, Monza, Italy",
+                    "circuit_name": "Autodromo Nazionale Monza",
+    "country": "Italy",
+    "latitude": 45.613333,
+    "longitude": 9.278056
         },
         {
                     "raceName": "2024 Formula One United States Grand Prix",
                     "shortName": "United States Grand Prix",
                     "raceTime": "2024-10-20T19:00:00Z",
-                    "raceTrack": "Circuit of the Americas, Austin, Texas, United States"
+                    "raceTrack": "Circuit of the Americas, Austin, Texas, United States",
+                    "circuit_name": "",
+                    "country": "",
+                    "latitude": 0,
+                    "longitude":0
         },
         {
                     "raceName": "2024 Formula One Mexican Grand Prix",
                     "shortName": "Mexican Grand Prix",
                     "raceTime": "2024-10-27T21:00:00Z",
-                    "raceTrack": "Autódromo Hermanos Rodríguez, Mexico City, Mexico"
+                    "raceTrack": "Autódromo Hermanos Rodríguez, Mexico City, Mexico",
+                    "circuit_name": "",
+                    "country": "",
+                    "latitude": 0,
+                    "longitude":0
 
         },
         {
@@ -108,22 +177,38 @@
                     "shortName": "São Paulo Grand Prix",
                     "raceTime": "2024-11-03T18:00:00Z",
                     "raceTrack": "Autódromo José Carlos Pace, Interlagos, Brazil"
+                    "circuit_name": "Autódromo José Carlos Pace - Interlagos",
+    "country": "Brazil",
+    "latitude": -23.700556,
+    "longitude": -46.715278
         },
         {
                     "raceName": "2024 Formula One Las Vegas Grand Prix",
                     "shortName": "Las Vegas Grand Prix",
                     "raceTime": "2024-11-24T00:00:00Z",
-                    "raceTrack": "Las Vegas Street Circuit, Las Vegas, Nevada, United States"
+                    "raceTrack": "Las Vegas Street Circuit, Las Vegas, Nevada, United States",
+                    "circuit_name": "",
+                    "country": "",
+                    "latitude": 0,
+                    "longitude":0
         },
         {
                     "raceName": "2024 Formula One Qatar Grand Prix",
                     "shortName": "Qatar Grand Prix",
                     "raceTime": "2024-12-01T14:00:00Z",
                     "raceTrack": "Losail International Circuit, Lusail, Qatar",
+                    "circuit_name": "",
+                    "country": "",
+                    "latitude": 0,
+                    "longitude":0
         },
         {
                     "raceName": "2024 Formula One Abu Dhabi Grand Prix",
                     "shortName":"Abu Dhabi Grand Prix",
                     "raceTime": "2024-12-08T14:00:00Z",
-                    "raceTrack": "Yas Marina Circuit, Abu Dhabi, United Arab Emirates"
+                    "raceTrack": "Yas Marina Circuit, Abu Dhabi, United Arab Emirates",
+                    "circuit_name": "",
+                    "country": "",
+                    "latitude": 0,
+                    "longitude":0
         }]
