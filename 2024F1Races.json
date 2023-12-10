@@ -158,8 +158,8 @@
                     "raceTrack": "Circuit of the Americas, Austin, Texas, United States",
                     "circuit_name": "Circuit of the Americas",
                     "country": "United States",
-                    "latitude": 0,
-                    "longitude":0
+                    "latitude": 30.133883,
+                    "longitude":-97.641144
         },
         {
                     "raceName": "2024 Formula One Mexican Grand Prix",
@@ -168,8 +168,8 @@
                     "raceTrack": "Autódromo Hermanos Rodríguez, Mexico City, Mexico",
                     "circuit_name": "Autódromo Hermanos Rodríguez",
                     "country": "Mexico",
-                    "latitude": 0,
-                    "longitude":0
+                    "latitude": 19.4025,
+                    "longitude":-99.0866
 
         },
         {
