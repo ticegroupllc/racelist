@@ -1,0 +1,20 @@
+[
+  {
+    "circuit_name": "Circuit de Spa-Francorchamps",
+    "country": "Belgium",
+    "latitude": 50.437083,
+    "longitude": 5.973194
+  },
+  {
+    "circuit_name": "Circuit Gilles-Villeneuve",
+    "country": "Canada",
+    "latitude": 45.505556,
+    "longitude": -73.528056
+  },
+  {
+    "circuit_name": "Autodromo Nazionale Monza",
+    "country": "Italy",
+    "latitude": 45.613333,
+    "longitude": 9.278056
+  }
+]
