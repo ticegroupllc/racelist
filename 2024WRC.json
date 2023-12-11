@@ -1,0 +1,26 @@
+[
+  {
+    "raceName": "Monte Carlo Rally",
+    "shortName": "Monte Carlo",
+    "raceTime": "2024-01-19T00:00:00Z",
+    "raceTrack": "Various locations in the French Alps and the Principality of Monaco",
+    "circuit_name": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Monte_Carlo_Rally_2023_SS18_Ogier.jpg/1200px-Monte_Carlo_Rally_2023_SS18_Ogier.jpg"
+  },
+  {
+    "raceName": "Rally Sweden",
+    "shortName": "Sweden",
+    "raceTime": "2024-02-09T00:00:00Z",
+    "raceTrack": "Torsby, Sweden",
+    "circuit_name": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ott_Tänak_Rally_Sweden_2023.jpg/1200px-Ott_Tänak_Rally_Sweden_2023.jpg"
+  },
+  {
+    "raceName": "Rally Mexico",
+    "shortName": "Mexico",
+    "raceTime": "2024-03-15T00:00:00Z",
+    "raceTrack": "León, Guanajuato, Mexico",
+    "circuit_name": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Elfyn_Evans_Rally_Mexico_2023.jpg/1200px-Elfyn_Evans_Rally_Mexico_2023.jpg"
+  }
+]
