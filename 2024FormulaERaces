@@ -1,0 +1,32 @@
+[
+  {
+    "raceName": "2024 Diriyah ePrix",
+    "shortName": "Diriyah",
+    "raceTime": "2024-01-27T17:30:00Z",
+    "raceTrack": "Diriyah Street Circuit",
+    "circuit_name": "Riyadh Street Circuit",
+    "country": "Saudi Arabia",
+    "latitude": 24.706534,
+    "longitude": 46.662552
+  },
+  {
+    "raceName": "2024 Mexico City ePrix",
+    "shortName": "Mexico City",
+    "raceTime": "2024-02-11T14:00:00Z",
+    "raceTrack": "Autodromo Hermanos Rodriguez",
+    "circuit_name": "Autodromo Hermanos Rodriguez",
+    "country": "Mexico",
+    "latitude": 19.427969,
+    "longitude": -99.084711
+  },
+  {
+    "raceName": "2024 São Paulo ePrix",
+    "shortName": "São Paulo",
+    "raceTime": "2024-03-18T13:00:00Z",
+    "raceTrack": "Autódromo José Carlos Pace",
+    "circuit_name": "Autódromo José Carlos Pace",
+    "country": "Brazil",
+    "latitude": -23.710778,
+    "longitude": -46.623315
+  }
+]
