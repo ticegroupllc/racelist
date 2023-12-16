@@ -25,14 +25,14 @@
     "url": "https://fiaworldrallycross.com/",
     "type": "Rallycross",
     "description": "Action-packed races on mixed-surface tracks, combining rally elements with short lap times and close competition.",
-    "abbreviation": ""
+    "abbreviation": "RX"
   },
   {
     "name": "FIA World Endurance Championship",
     "url": "https://www.fiawec.com/en/#:~:text=Contested",
     "type": "Sports car",
     "description": "Enduring races with varying distances, featuring the world's best sports cars and drivers.",
-    "abbreviation": ""
+    "abbreviation": "END"
   },
   {
     "name": "FIA Karting World Championship",
@@ -46,7 +46,7 @@
     "url": "https://www.fia.com/world-rally-raid-championship",
     "type": "Rally-raid",
     "description": "Long-distance off-road races, testing the endurance of competitors and vehicles.",
-    "abbreviation": ""
+    "abbreviation": "RR"
   },
   {
     "name": "FIA GT World Cup",
@@ -60,7 +60,7 @@
     "url": "https://www.fiaerc.com/",
     "type": "Rallycross",
     "description": "A regional rallycross championship with high-level competition and exciting racing.",
-    "abbreviation": ""
+    "abbreviation": "EUROX"
   },
   {
     "name": "IndyCar",
@@ -70,10 +70,17 @@
     "abbreviation": "INDY"
   },
   {
-    "name": "Indy ",
+    "name": "IndyNXT",
     "url": "https://www.indycar.com/INDYNXT",
     "type": "Indycar",
     "description": "Highest Class US open-wheel racing series.",
     "abbreviation": "INDYNXT"
+  },
+  {
+    "name": "NASCAR",
+    "url": "https://www.nascar.com/",
+    "type": "Nascar",
+    "description": "Stockcar racing",
+    "abbreviation": "NASCAR"
   }
 ]
