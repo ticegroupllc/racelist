@@ -7,7 +7,8 @@
 "circuit_name": "Bahrain International Circuit",
 "country": "Bahrain",
 "latitude": 25.995413,
-"longitude": 50.507659
+"longitude": 50.507659,
+      "image": ""
 },
 {
 "raceName": "Saudi Arabia Grand Prix",
@@ -17,6 +18,7 @@
 "circuit_name": "Jeddah Corniche Circuit",
 "country": "Saudi Arabia",
 "latitude": 21.496580,
-"longitude": 39.192508
+"longitude": 39.192508,
+      "image": ""
 }
 ]
