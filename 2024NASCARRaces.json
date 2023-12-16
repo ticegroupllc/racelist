@@ -1,1 +1,64 @@
+{
+  "races": [
+    {
+      "raceName": "Grand Prix of St. Petersburg",
+      "shortName": "STP",
+      "raceTime": "March 9, 2024 (tentative)",
+      "raceTrack": "Streets of St. Petersburg",
+      "circuit_name": "Streets of St. Petersburg",
+      "country": "USA",
+      "latitude": 27.950575,
+      "longitude": -82.750438,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/2022_IndyCar_Series_at_St._Petersburg_Race_1.jpg/800px-2022_IndyCar_Series_at_St._Petersburg_Race_1.jpg"
+    },
+    {
+      "raceName": "Freedom 100",
+      "shortName": "FREEDOM",
+      "raceTime": "April 27, 2024 (tentative)",
+      "raceTrack": "Indianapolis Motor Speedway (Road Course)",
+      "circuit_name": "Indianapolis Motor Speedway (Road Course)",
+      "country": "USA",
+      "latitude": 39.797222,
+      "longitude": -86.239167,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/IndyCar_Series_Indianapolis_Grand_Prix_2023.jpg/800px-IndyCar_Series_Indianapolis_Grand_Prix_2023.jpg"
+    },
+    {
+      "raceName": "REV Group Grand Prix at Road America",
+      "shortName": "ROAD",
+      "raceTime": "July 20, 2024 (tentative)",
+      "raceTrack": "Road America",
+      "circuit_name": "Road America",
+      "country": "USA",
+      "latitude": 43.609444,
+      "longitude": -88.511111,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/IndyCar_Series_Road_America_2023.jpg/800px-IndyCar_Series_Road_America_2023.jpg"
+    },
+    {
+      "raceName": "Toronto Indy NXT Grand Prix",
+      "shortName": "TOR",
+      "raceTime": "July 14, 2024 (tentative)",
+      "raceTrack": "Exhibition Place",
+      "circuit_name": "Exhibition Place",
+      "country": "Canada",
+      "latitude": 43.639722,
+      "longitude": -79.383333,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Toronto_Indy_2017.jpg/800px-Toronto_Indy_2017.jpg"
+    },
+    {
+      "raceName": "Gateway Indy NXT Grand Prix",
+      "shortName": "GATEWAY",
+      "raceTime": "August 24, 2024 (tentative)",
+      "raceTrack": "Gateway Motorsports Park",
+      "circuit_name": "Gateway Motorsports Park",
+      "country": "USA",
+      "latitude": 38.668056,
+      "longitude": -90.557222,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IndyCar_Series_Gateway_2023.jpg/800px-IndyCar_Series_Gateway_2023.jpg"
+    },
+    {
+      "raceName": "Portland Indy NXT Grand Prix",
+      "shortName": "PORT",
+      "raceTime": "September 1, 2024 (tentative)",
+      "raceTrack": "Portland International Raceway",
+      "circuit_name": "Portland
 
