@@ -7,7 +7,8 @@
     "circuit_name": "Riyadh Street Circuit",
     "country": "Saudi Arabia",
     "latitude": 24.706534,
-    "longitude": 46.662552
+    "longitude": 46.662552,
+      "image": ""
   },
   {
     "raceName": "2024 Mexico City ePrix",
@@ -17,7 +18,8 @@
     "circuit_name": "Autodromo Hermanos Rodriguez",
     "country": "Mexico",
     "latitude": 19.427969,
-    "longitude": -99.084711
+    "longitude": -99.084711,
+      "image": ""
   },
   {
     "raceName": "2024 São Paulo ePrix",
@@ -27,6 +29,7 @@
     "circuit_name": "Autódromo José Carlos Pace",
     "country": "Brazil",
     "latitude": -23.710778,
-    "longitude": -46.623315
+    "longitude": -46.623315,
+      "image": ""
   }
 ]
