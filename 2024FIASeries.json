@@ -61,5 +61,19 @@
     "type": "Rallycross",
     "description": "A regional rallycross championship with high-level competition and exciting racing.",
     "abbreviation": ""
+  },
+  {
+    "name": "IndyCar",
+    "url": "https://www.indycar.com/",
+    "type": "Indycar",
+    "description": "Highest Class US open-wheel racing series.",
+    "abbreviation": "INDY"
+  },
+  {
+    "name": "Indy ",
+    "url": "https://www.indycar.com/INDYNXT",
+    "type": "Indycar",
+    "description": "Highest Class US open-wheel racing series.",
+    "abbreviation": "INDYNXT"
   }
 ]
