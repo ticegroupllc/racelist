@@ -1,1 +1,22 @@
-
+[
+{
+"raceName": "Bahrain Grand Prix",
+"shortName": "BHR",
+"raceTime": "2024-03-17T15:00:00+03:00",
+"raceTrack": "Bahrain International Circuit",
+"circuit_name": "Bahrain International Circuit",
+"country": "Bahrain",
+"latitude": 25.995413,
+"longitude": 50.507659
+},
+{
+"raceName": "Saudi Arabia Grand Prix",
+"shortName": "SAU",
+"raceTime": "2024-03-31T18:00:00+03:00",
+"raceTrack": "Jeddah Corniche Circuit",
+"circuit_name": "Jeddah Corniche Circuit",
+"country": "Saudi Arabia",
+"latitude": 21.496580,
+"longitude": 39.192508
+}
+]
