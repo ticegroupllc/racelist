@@ -1,5 +1,4 @@
-{
-  "races": [
+[
     {
       "raceName": "Grand Prix of St. Petersburg",
       "shortName": "STP",
@@ -60,5 +59,9 @@
       "shortName": "PORT",
       "raceTime": "September 1, 2024 (tentative)",
       "raceTrack": "Portland International Raceway",
-      "circuit_name": "Portland
-
+      "circuit_name": "Portland,
+      "country": "USA",
+      "latitude": 38.668056,
+      "longitude": -90.557222,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IndyCar_Series_Gateway_2023.jpg/800px-IndyCar_Series_Gateway_2023.jpg"
+    }]
