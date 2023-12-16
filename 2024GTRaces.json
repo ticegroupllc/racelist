@@ -1,1 +1,22 @@
-
+[
+{
+"raceName": "Dubai 24 Hours",
+"shortName": "DUB24",
+"raceTime": "2024-01-12T15:00:00+04:00",
+"raceTrack": "Dubai Autodrome",
+"circuit_name": "Dubai Autodrome",
+"country": "United Arab Emirates",
+"latitude": 25.151211,
+"longitude": 55.342361
+},
+{
+"raceName": "24 Hours of Daytona",
+"shortName": "DAY24",
+"raceTime": "2024-01-27T12:00:00-05:00",
+"raceTrack": "Daytona International Speedway",
+"circuit_name": "Daytona International Speedway",
+"country": "United States",
+"latitude": 29.537222,
+"longitude": -81.085278
+}
+]
