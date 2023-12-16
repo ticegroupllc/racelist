@@ -1,1 +1,67 @@
-
+[
+    {
+      "raceName": "Firestone Grand Prix of St. Petersburg",
+      "shortName": "STP",
+      "raceTime": "2024-03-10T12:00:00-04:00",
+      "raceTrack": "Streets of St. Petersburg",
+      "circuit_name": "Streets of St. Petersburg",
+      "country": "USA",
+      "latitude": 27.950575,
+      "longitude": -82.750438,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/2022_IndyCar_Series_at_St._Petersburg_Race_1.jpg/800px-2022_IndyCar_Series_at_St._Petersburg_Race_1.jpg"
+    },
+    {
+      "raceName": "The Thermal Club $1 Million Challenge*",
+      "shortName": "THER",
+      "raceTime": "2024-03-24T14:00:00-04:00",
+      "raceTrack": "The Thermal Club",
+      "circuit_name": "The Thermal Club",
+      "country": "USA",
+      "latitude": 33.922778,
+      "longitude": -116.303056,
+      "image": "https://www.thethermalclub.com/wp-content/uploads/2022/02/Thermal-Club-CA-Palm-Springs-Motorsport-Resort-Racetrack-1.jpg"
+    },
+    {
+      "raceName": "Acura Grand Prix of Long Beach",
+      "shortName": "LBH",
+      "raceTime": "2024-04-21T15:00:00-07:00",
+      "raceTrack": "Streets of Long Beach",
+      "circuit_name": "Streets of Long Beach",
+      "country": "USA",
+      "latitude": 33.761667,
+      "longitude": -118.191944,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/IndyCar_Long_Beach_2018.jpg/800px-IndyCar_Long_Beach_2018.jpg"
+    },
+    {
+      "raceName": "Honda Indy Grand Prix of Alabama",
+      "shortName": "ALA",
+      "raceTime": "2024-04-28T14:00:00-04:00",
+      "raceTrack": "Barber Motorsports Park",
+      "circuit_name": "Barber Motorsports Park",
+      "country": "USA",
+      "latitude": 33.540417,
+      "longitude": -86.683333,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/IndyCar_2023_Barber_Motorsports_Park.jpg/800px-IndyCar_2023_Barber_Motorsports_Park.jpg"
+    },
+    {
+      "raceName": "Indianapolis Motor Speedway Road Course Grand Prix",
+      "shortName": "IMS",
+      "raceTime": "2024-05-12T12:00:00-04:00",
+      "raceTrack": "Indianapolis Motor Speedway (Road Course)",
+      "circuit_name": "Indianapolis Motor Speedway (Road Course)",
+      "country": "USA",
+      "latitude": 39.797222,
+      "longitude": -86.239167,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/IndyCar_Series_Indianapolis_Grand_Prix_2023.jpg/800px-IndyCar_Series_Indianapolis_Grand_Prix_2023.jpg"
+    },
+    {
+      "raceName": "108th Indianapolis 500 presented by Gainbridge",
+      "shortName": "IMS",
+      "raceTime": "2024-05-12T12:00:00-04:00",
+      "raceTrack": "Indianapolis Motor Speedway (Road Course)",
+      "circuit_name": "Indianapolis Motor Speedway (Road Course)",
+      "country": "USA",
+      "latitude": 39.797222,
+      "longitude": -86.239167,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/IndyCar_Series_Indianapolis_Grand_Prix_2023.jpg/800px-IndyCar_Series_Indianapolis_Grand_Prix_2023.jpg"
+    }]
