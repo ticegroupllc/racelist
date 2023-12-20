@@ -7,7 +7,7 @@
     "country": "Bahrain",
     "latitude": 26.040833,
     "longitude": 50.506944,
-      "image": ""
+      "image": "Bahrain_International_Circuit--Grand_Prix_Layout"
         },
         {
             "raceName": "2024 Formula One Saudi Arabian Grand Prix",
@@ -18,7 +18,7 @@
                     "country": "Saudi Arabia",
                     "latitude": 0,
                     "longitude":0,
-      "image": ""
+      "image": "Jeddah_Street_Circuit_2021"
         },
         {
             "raceName": "2024 Formula One Australian Grand Prix",
@@ -29,7 +29,7 @@
                     "country": "Australia",
                     "latitude": 0,
                     "longitude":0,
-      "image": ""
+      "image": "Albert_Park_Circuit_2021"
         },
         {
 
@@ -41,7 +41,7 @@
                     "country": "Azerbaijan",
                     "latitude": 0,
                     "longitude":0,
-      "image": ""
+      "image": "Baku_Formula_One_circuit_map"
         },
         {
             "raceName": "2024 Formula One Miami Grand Prix",
@@ -52,7 +52,7 @@
                     "country": "United States",
                     "latitude": 0,
                     "longitude":0,
-      "image": ""
+      "image": "Miami_Hard_Rock_Stadium_Circuit_2022"
         },
         {
             "raceName": "2024 Formula One Monaco Grand Prix",
@@ -63,7 +63,7 @@
                     "country": "Monaco",
                     "latitude": 0,
                     "longitude":0,
-      "image": ""
+      "image": "Monte_Carlo_Formula_1_track_map"
         },
         {
             "raceName": "2024 Formula One Spanish Grand Prix",
@@ -74,7 +74,7 @@
                     "country": "Spain",
                     "latitude": 0,
                     "longitude":0,
-      "image": ""
+      "image": "Circuit_de_Catalunya_moto_2021"
         },
         {
             "raceName": "2024 Formula One Canadian Grand Prix",
@@ -85,7 +85,7 @@
     "country": "Canada",
     "latitude": 45.505556,
     "longitude": -73.528056,
-      "image": ""
+      "image": "Île_Notre-Dame_(Circuit_Gilles_Villeneuve)"
 
         },
         {
@@ -97,7 +97,7 @@
     "country": "United Kingdom",
     "latitude": 52.072222,
     "longitude": -1.006944,
-      "image": ""
+      "image": "Silverstone_Circuit_2020"
         },
         {
             "raceName": "2024 Formula One Austrian Grand Prix",
@@ -108,7 +108,7 @@
     "country": "Austria",
     "latitude": 47.216667,
     "longitude": 14.733333,
-      "image": ""
+      "image": "Austrian GP"
         },
         {
             "raceName": "2024 Formula One French Grand Prix",
@@ -119,7 +119,7 @@
                     "country": "France",
                     "latitude": 0,
                     "longitude":0,
-      "image": ""
+      "image": "Le_Castellet_circuit_map_Formula_One_2019_and_2021_with_corner_names_English_19_07_2021"
         },
         {
                     "raceName": "2024 Formula One Hungarian Grand Prix",
@@ -130,7 +130,7 @@
                     "country": "Hungary",
                     "latitude": 0,
                     "longitude":0,
-      "image": ""
+      "image": "Hungaroring"
         },
         {
                     "raceName": "2024 Formula One Belgian Grand Prix",
@@ -141,7 +141,7 @@
                         "country": "Belgium",
                             "latitude": 50.437083,
                             "longitude": 5.973194,
-      "image": ""
+      "image": "Spa-Francorchamps_of_Belgium"
 
         },
         {
@@ -153,7 +153,7 @@
     "country": "Netherlands",
     "latitude": 52.366667,
     "longitude": 4.550000,
-      "image": ""
+      "image": "Zandvoort_Circuit"
         },
         {
                     "raceName": "2024 Formula One Italian Grand Prix",
@@ -164,7 +164,7 @@
     "country": "Italy",
     "latitude": 45.613333,
     "longitude": 9.278056,
-      "image": ""
+      "image": "Monza_track_map"
         },
         {
                     "raceName": "2024 Formula One United States Grand Prix",
@@ -175,7 +175,7 @@
                     "country": "United States",
                     "latitude": 30.133883,
                     "longitude":-97.641144,
-      "image": ""
+      "image": "Austin_circuit"
         },
         {
                     "raceName": "2024 Formula One Mexican Grand Prix",
@@ -186,7 +186,7 @@
                     "country": "Mexico",
                     "latitude": 19.4025,
                     "longitude":-99.0866,
-      "image": ""
+      "image": "Autódromo_Hermanos_Rodríguez_2015"
 
         },
         {
@@ -198,7 +198,7 @@
     "country": "Brazil",
     "latitude": -23.700556,
     "longitude": -46.715278,
-      "image": ""
+      "image": "Autódromo_José_Carlos_Pace_(AKA_Interlagos)_track_map"
         },
         {
                     "raceName": "2024 Formula One Las Vegas Grand Prix",
@@ -209,7 +209,7 @@
                     "country": "United States",
                     "latitude": 0,
                     "longitude":0,
-      "image": ""
+      "image": "Las_Vegas_Strip_Circuit_2023"
         },
         {
                     "raceName": "2024 Formula One Qatar Grand Prix",
@@ -220,7 +220,7 @@
                     "country": "Qatar",
                     "latitude": 0,
                     "longitude":0,
-      "image": ""
+      "image": "Lusail_International_Circuit_2023"
         },
         {
                     "raceName": "2024 Formula One Abu Dhabi Grand Prix",
@@ -231,5 +231,5 @@
                     "country": "United Arab Emirates",
                     "latitude": 0,
                     "longitude":0,
-      "image": ""
+      "image": "Yas_Marina_Circuit"
         }]
